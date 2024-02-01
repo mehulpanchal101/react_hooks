@@ -1,4 +1,26 @@
-# This Is a Repo With examples for each React Hook
+# React Hooks Project
+
+This project demonstrates the usage of React Hooks to manage stateful logic in functional components. React Hooks provide a way to use state and lifecycle features in functional components, making it easier to share logic and reuse code.
+
+## Features
+
+- **useState:** Managing component-level state.
+- **useEffect:** Performing side effects in functional components.
+- **useContext:** Accessing the React context within functional components.
+- **useReducer:** Handling complex state logic with reducer functions.
+- **Custom Hooks:** Creating custom hooks for reusable logic.
+
+## Technologies Used
+
+- React
+- React Hooks
+
+## Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone [https://github.com/your-username/react-hooks-project]
+
 
 # Useful Chrome Extensions
 
